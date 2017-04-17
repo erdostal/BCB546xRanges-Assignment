@@ -1,13 +1,4 @@
----
-title: "BCB546x Ranges Assignment"
-author: "Emma Miller"
-date: "April 17, 2017"
-output: pdf_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+##Ranges 
 
 #Load required packages for this pipeline
 ```{r}
