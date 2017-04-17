@@ -69,3 +69,7 @@ chr1_collapsed_exons$num_vars <- var_counts
 #examine file 
 chr1_collapsed_exons
 ```
+### Write appended data-frame to a new file
+```{r}
+write.csv(chr1_collapsed_exons, file = "chr1_collapsed_exons.csv")
+```
